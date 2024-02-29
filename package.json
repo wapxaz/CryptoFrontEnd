@@ -2,7 +2,7 @@
   "name": "react-crypto-app",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://wapxaz.github.io/CryptoFrontEnd",
+  "homepage": "https://wapxaz.github.io/CryptoFrontEnd/",
   "type": "module",
   "scripts": {
     "dev": "vite",
